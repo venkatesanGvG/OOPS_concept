@@ -1,3 +1,7 @@
 first line
 
+<<<<<<< HEAD
 kjhgfd
+=======
+klojhff
+>>>>>>> d0ce2a6eef1e13840278c45b551ec788d99db945
